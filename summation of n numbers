@@ -1,0 +1,7 @@
+n=int(input("enter a number"))
+p=0
+sum=0
+while (p<=n):
+    sum=sum+p
+    p=p+1
+print("the total value is :",sum)
