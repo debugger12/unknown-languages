@@ -1,0 +1,7 @@
+student1 = int(input("enter the value of the student"))
+student2= int(input("enter the value of the student"))
+if student1>student2:
+     print("student1 is rich")
+     print("and has money:",student1)
+else:
+     print("student1 is rich")
