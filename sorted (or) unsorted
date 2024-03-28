@@ -1,0 +1,11 @@
+def akshitha(arr):
+    for i in range(1,len(arr)):
+        if(arr[i]<arr[i-1]):
+            return False
+            return True
+mylist=[18,13,4,9,8,5]
+result=akshitha(mylist)
+if akshitha:
+    print("unsorted")
+else:
+    print("sorted")
