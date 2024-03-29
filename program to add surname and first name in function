@@ -1,0 +1,5 @@
+def name(a,b):
+ print(a+" "+b)
+a="molli"
+b="akshitha"
+name(a,b)
